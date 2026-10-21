@@ -13,7 +13,7 @@
   <a href="https://www.siwarbenmustapha.me/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/siwar-ben-mustapha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:siwar.ben-mustapha@dauphine.eu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.siwarbenmustapha.me/cv/Siwar_Ben_Mustapha_CV_EN.pdf"><img src="https://img.shields.io/badge/Download%20CV-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://github.com/Siwar-Ben-Mustapha/Siwar-Ben-Mustapha/blob/main/Siwar_Ben_Mustapha_CV_EN.pdf"><img src="https://img.shields.io/badge/View%20my%20CV-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ class SiwarBenMustapha:
 
 ```
 📍 Jul 2026 – Sep 2026   Agentic AI Developer Intern — KAIROS agent                @ ARSII
-   Jan 2025 – May 2025   R&D Intern: Cybersecurity, Automation & AI (PFE, 18.5/20) @ Bourse de Tunis
+   Jan 2025 – May 2025   R&D Intern: Cybersecurity, Automation & AI (PFE, 18.5/20) @ Tunis Stock Exchange
    Jul 2024 – Aug 2024   Full-Stack Developer Intern — e-commerce website (PFA)    @ Synotec
 ```
 
@@ -183,6 +183,15 @@ class SiwarBenMustapha:
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siwar-Ben-Mustapha/Siwar-Ben-Mustapha/output/github-snake-dark.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Siwar-Ben-Mustapha/Siwar-Ben-Mustapha/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/Siwar-Ben-Mustapha/Siwar-Ben-Mustapha/blob/main/Siwar_Ben_Mustapha_CV_EN.pdf"><img src="https://img.shields.io/badge/📄%20View%20CV-A855F7?style=for-the-badge" /></a>
+  <a href="https://github.com/Siwar-Ben-Mustapha/Siwar-Ben-Mustapha/raw/main/Siwar_Ben_Mustapha_CV_EN.pdf"><img src="https://img.shields.io/badge/⬇️%20Download%20CV%20(PDF)-10B981?style=for-the-badge" /></a>
 </p>
 
 ---
