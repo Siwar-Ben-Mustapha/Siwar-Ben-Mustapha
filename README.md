@@ -104,8 +104,8 @@ class SiwarBenMustapha:
 |---|---|---|
 | 🗓️ **[KAIROS — AI Personal Organization Agent](https://github.com/Siwar-Ben-Mustapha/KAIROS_Agent)** | Local-first multi-tool agent with human-in-the-loop scheduling; event extraction & conflict detection at **87% accuracy** (60 test cases), **1.6 s** avg latency | LangGraph · LangSmith · vLLM · Ollama · FastAPI · React/TS · Calendar & Gmail |
 | 🎗️ **[BreastFriend — AI Oncology Assistant](https://github.com/Siwar-Ben-Mustapha/BreastFriend)** | Hybrid RAG with reranking (evaluated with Ragas), emergency detection, patient–doctor follow-up, real-time virtual wig try-on — 🏆 **Business Impact Prize** | Flask · React · Qdrant · Ollama · Ragas · MediaPipe · Docker |
-| 🛡️ **Copilot For Blue Team** 🔒 | Automates cybersecurity audits & network monitoring with AI analysis of security reports — **top grade of the class (18.5/20)** *(private, PFE)* | Flask · React · SQL Server · Gemini API · CIS Benchmarks · Kali |
-| 💼 **PRIMIA — AI for Credit Insurance** 🔒 | SaaS for dynamic credit-insurance premium pricing, built in 48 h at the **EY** hackathon *(private)* | AI · SaaS · InsurTech |
+| 🛡️ **Copilot For Blue Team**  | Automates cybersecurity audits & network monitoring with AI analysis of security reports — **top grade of the class (18.5/20)** *(private, PFE)* | Flask · React · SQL Server · Gemini API · CIS Benchmarks · Kali |
+| 💼 **PRIMIA — AI for Credit Insurance**  | SaaS for dynamic credit-insurance premium pricing, built in 48 h at the **EY** hackathon *(private)* | AI · SaaS · InsurTech |
 
 ### 🧠 Machine Learning, NLP & MLOps
 
